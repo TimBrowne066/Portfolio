@@ -9,13 +9,14 @@
 // -------------------------
 
 html {
-  position: relative;
   min-height: 100%;
 }
 
 body {
   padding-top: 60px;
   margin-bottom: 75px;
+  margin-left: 0px;
+  margin-right: 0px;
 }
 
 footer {
@@ -74,7 +75,12 @@ textarea {
 }
 
 .project-header{
-  color: red;
+  color: #222222;
+  width: 100%;
+  margin-left: 0px;
+  margin-right: 0px;
+  padding: 5px;
+  background-color: lightgray;
 }
 
 .project-title{
