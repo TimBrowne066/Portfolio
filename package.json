@@ -1,10 +1,6 @@
 {
-  "name": "Timothy Browne Portfolio",
   "version": "4.3.0",
   "description": "A Node.JS/MongoDB interactive ",
-  "repository": {
-    "type": "git",
-  },
   "author": "Tim Browne",
   "license": "MIT",
   "scripts": {
